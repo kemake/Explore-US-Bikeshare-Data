@@ -1,4 +1,5 @@
 # Explore-US-Bikeshare-Data
+python version:3.8
 The number of bike-sharing systems has grown over the past decade and is becoming more and more popular in cities around the world.The bike sharing system enables users to rent bicycles for a short period of time for a certain amount. Users can borrow a bike at A and return it at B, or they just want to ride it or return at the same location. Each bike can be used by multiple users per day.
 This project will use Python to explore data related to bicycle sharing systems in three major U.S. cities: Chicago, New York, and Washington, DC. Fuctions mainly involve:  Based on user input, it will return the following information:
 
